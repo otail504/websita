@@ -1,0 +1,18 @@
+.button
+{
+    position: absolute;
+    transform: translate(72px, -127px);
+    display: none;
+}
+.espace
+{
+    width: 250px;
+    height: 250px;
+    background-color: black;
+}
+#a504
+{
+    position: absolute;
+    transform: translate(1420px, -6px);
+    display: none;
+}
