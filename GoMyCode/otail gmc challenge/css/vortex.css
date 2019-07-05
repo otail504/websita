@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+}
+#titre{
+    background-image:  url("banana.jpg");
+    height: 30%;
+    width: 100%;
+    padding-top: 20%;
+    background-size: cover;
+padding-left: 10%;
+}
+#article
+{
+    color: rgb(9, 9, 134);
+    padding-left: 50%;
+}
+.blo1
+{
+    display: flex;
+
+}
+
+.par1{
+   background-color: bisque;
+   color: black;
+    margin: 12px;
+  width: 90%;
+  height: 300px;
+}
+.par1:hover
+{
+    border: solid black ;
+    /* border:black; */
+ 
+}
+.par2
+{
+    background-color:rgb(219, 59, 59);
+ 
+    color: black;
+ margin: 12px;
+ width: 90%;
+ height: 300px;
+}
+.par2:hover{
+    
+border: solid black;
+/* border:white; */
+
+}
+.space
+{
+    padding-left: 20px;
+}
